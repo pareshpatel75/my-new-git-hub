@@ -6,6 +6,7 @@ public class AvenueLearning {
 
         System.out.println("hey siri say hello");
         System.out.println("hey alexa open the door ");
+        System.out.println("i have lot of work to do");
         
     }
 }
